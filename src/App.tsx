@@ -9,7 +9,7 @@ export default function App() {
 	      NativeWind, is working!
       </Text>
       <Text className="text-6xl">
-	      🎉
+        🎉
       </Text>
       <StatusBar style="light" />
     </View>
