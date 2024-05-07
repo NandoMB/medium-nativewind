@@ -11,7 +11,7 @@ export default function App() {
       <Text className="text-6xl">
 	      🎉
       </Text>
-      <StatusBar style="auto" />
+      <StatusBar style="light" />
     </View>
   );
 }
